@@ -1,0 +1,6 @@
+framework module Pods_NBAstats {
+  umbrella header "Pods-NBAstats-umbrella.h"
+
+  export *
+  module * { export * }
+}
