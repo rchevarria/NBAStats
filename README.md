@@ -1,9 +1,11 @@
 # NBA Stats
 
 ## Overview
-### Description
 
-    NBA Stats is a basketball sports app that allow users to view information about all 30 NBA teams, their currently active players, and their upcoming scheduled games for the 2021-2022 season. 
+### Description: 
+
+NBA Stats is a basketball sports app that allow users to view information about all 30 NBA teams, their currently active players, and their upcoming scheduled games for the 2021-2022 season.
+
 ### App Evaluation
 
 - **Category:** Sports App / Entertainment
